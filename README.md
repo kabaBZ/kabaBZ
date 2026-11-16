@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=140&section=header&text=kabaBZ&fontSize=44&fontColor=ffffff">
-</p>
-
-<p align="center">
   <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FB83A5&center=true&vCenter=true&width=420&lines=kabaBZ+%E7%9A%84GitHub+%E4%B8%BB%E9%A1%B5">
 </p>
 
